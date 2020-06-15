@@ -1,6 +1,6 @@
 ﻿<resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="duckDuckGoLogoDescription">Logotipo de DuckDuckGo</string>
+    <string name="duckDuckGoLogoDescription">Logo de DuckDuckGo</string>
     <string name="duckDuckGoPrivacySimplified">La privacidad, simplificada.</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
@@ -14,9 +14,9 @@
     <string name="cannotLaunchDefaultAppSettings">La pantalla de configuración predeterminada de la aplicación no se puede abrir</string>
     <string name="settingsDefaultBrowserEnabled">Definir como navegador predeterminado</string>
     <string name="defaultBrowserMaybeLater">Quizás más tarde</string>
-    <string name="defaultBrowserLetsDoIt">¡Hagámoslo!</string>
-    <string name="defaultBrowserDescriptionNoDefault">Abre los enlaces con tranquilidad, siempre.</string>
-    <string name="defaultBrowserInstructions">Selecciona DuckDuckGo y elige <font color="#678fff">Siempre</font>.</string>
+    <string name="defaultBrowserLetsDoIt">¡Vamos!</string>
+    <string name="defaultBrowserDescriptionNoDefault">Abre los enlaces tranquilo, siempre.</string>
+    <string name="defaultBrowserInstructions">Selecciona DuckDuckGo y escoge<font color="#678fff">Siempre</font>.</string>
 
     <!-- Browser Activity -->
     <string name="browserPopupMenu">Menú del navegador</string>
@@ -24,11 +24,11 @@
     <string name="back">Volver</string>
     <string name="forward">Avanzar</string>
 
-    <string name="omnibarInputHint">Buscar o escribir la URL</string>
+    <string name="omnibarInputHint">Buscar o escribir URL</string>
     <string name="clearButtonContentDescription">Borrar búsqueda</string>
-    <string name="no_compatible_third_party_app_installed">No hay ninguna aplicación compatible instalada</string>
+    <string name="no_compatible_third_party_app_installed">Ninguna aplicación instalada es compatible</string>
     <string name="addBookmarkMenuTitle">Añadir marcador</string>
-    <string name="requestDesktopSiteMenuTitle">Versión de escritorio del sitio web</string>
+    <string name="requestDesktopSiteMenuTitle">Ver versión de escritorio</string>
 
     <!-- Downloading files -->
     <string name="downloadImage">Descargar imagen</string>
@@ -41,13 +41,13 @@
     <string name="options">Opciones</string>
     <string name="shareLink">Compartir enlace</string>
     <string name="shareMenuTitle">Compartir…</string>
-    <string name="copyUrl">Copiar dirección de enlace</string>
+    <string name="copyUrl">Copiar vínculo</string>
 
     <!-- Find in page -->
     <string name="findInPageMenuTitle">Buscar en la página</string>
     <string name="nextSearchTermDescription">Buscar siguiente</string>
     <string name="previousSearchTermDescription">Buscar anterior</string>
-    <string name="closeFindInPageButtonDescription">Cerrar búsqueda en la vista de página</string>
+    <string name="closeFindInPageButtonDescription">Cerrar búsqueda</string>
     <string name="findInPageHint">Buscar en la página</string>
 
     <!-- AutoComplete Suggestions -->
@@ -124,7 +124,7 @@
     <string name="practicesIconContentBad">Icono de malas prácticas</string>
 
     <string name="networkTrackerSummaryHeader">PRINCIPALES DELINCUENTES DE LAS REDES DE RASTREADORES</string>
-    <string name="networkTrackerSummaryNotReady">Continuamos recopilando datos que demuestran cuántos rastreadores hemos bloqueado.</string>
+    <string name="networkTrackerSummaryNotReady">Continuamos recopilando datos para mostrar cuántos rastreadores hemos bloqueado.</string>
 
     <!-- Fire -->
     <string name="fireMenu">Borrar datos</string>
@@ -220,7 +220,7 @@
 
     <!-- Add widget -->
     <string name="addWidgetCtaTitle">Prueba nuestro widget de búsqueda</string>
-    <string name="addWidgetCtaDescription">Añade nuestro widget de búsqueda a tu pantalla de inicio para facilitar y agilizar el acceso.</string>
+    <string name="addWidgetCtaDescription">Agrega nuestro widget de búsqueda a tu pantalla de inicio para una busqueda mas fácil y rápida.</string>
     <string name="addWidgetCtaAutoLaunchButton">Añadir widget</string>
     <string name="addWidgetCtaInstructionsLaunchButton">Mostrar</string>
     <string name="addWidgetCtaDismissButton">Descartar</string>
@@ -346,9 +346,9 @@
     <string name="whichBrokenSitesHint">¿Qué sitio web no funciona correctamente?</string>
     <string name="feedbackSpecificAsPossible">Sé lo más concreto posible.</string>
     <string name="feedbackInitialDisambiguationTitle">¡Empecemos!</string>
-    <string name="feedbackInitialDisambiguationSubtitle">¿Cómo calificarías tu opinión?</string>
-    <string name="feedbackInitialDisambiguationHappyButtonContentDescription">Botón de opinión positiva</string>
-    <string name="feedbackInitialDisambiguationSadButtonContentDescription">Botón de opinión negativa</string>
+    <string name="feedbackInitialDisambiguationSubtitle">¿Cómo categorizarias tu retroalimentación?</string>
+    <string name="feedbackInitialDisambiguationHappyButtonContentDescription">Botón de retroalimentación positiva</string>
+    <string name="feedbackInitialDisambiguationSadButtonContentDescription">Botón de retroalimentación negativa</string>
     <string name="feedbackIsImportantToUs">Tu opinión anónima nos importa.</string>
 
     <!-- Webview Recovery -->
@@ -381,7 +381,7 @@
     <!-- New Onboarding Experience -->
     <string name="onboardingWelcomeTitle">¡Bienvenido a DuckDuckGo!</string>
     <string name="onboardingDaxText">Internet puede ser un poco espeluznante.&lt;br/&gt;&lt;br/&gt;¡No te preocupes! Buscar y navegar con privacidad es más fácil de lo que piensas.</string>
-    <string name="onboardingLetsDoItButton">¡De acuerdo!</string>
+    <string name="onboardingLetsDoItButton">¡Vamos!</string>
     <string name="daxIntroCtaText">¡A continuación, intenta visitar uno de tus sitios favoritos!&lt;br/&gt;&lt;br/&gt;Bloquearé los rastreadores para que no puedan espiarte. También haré tu conexión segura si es posible. &#128274;</string>
     <string name="daxEndCtaText">¡Lo estás haciendo muy bien!&lt;br/&gt;&lt;br/&gt;Recuerda: cada vez que navegas conmigo, anuncios y rastreadores son bloqueados. &#128077;</string>
     <string name="daxSerpCtaText">Tus búsquedas con DuckDuckGo son anónimas y nunca almaceno tu historial de búsqueda. Nunca. &#128588;</string>
@@ -400,7 +400,7 @@
     <!-- Download Confirmation -->
     <string name="downloadConfirmationContinue">Continuar</string>
     <string name="downloadConfirmationSaveFileTitle">Guardar %1$s</string>
-    <string name="downloadConfirmationKeepBothFilesText">Mantener los dos</string>
+    <string name="downloadConfirmationKeepBothFilesText">Mantener ambos</string>
     <string name="downloadConfirmationReplaceOldFileText">Reemplazar</string>
     <string name="downloadConfirmationOpenFileText">Abrir</string>
     <string name="downloadConfirmationUnableToOpenFileText">No se ha podido abrir el archivo</string>
@@ -412,7 +412,7 @@
     <string name="changeIconCtaAccept">Usar</string>
     <string name="changeIconCtaCancel">Cancelar</string>
     <string name="changeIconDialogTitle">¿Usar nuevo icono?</string>
-    <string name="changeIconDialogMessage">La aplicación puede cerrarse para actualizar los cambios. Vuelve después de que hayas admirado tu nuevo y atractivo icono.</string>
+    <string name="changeIconDialogMessage">La aplicación puede cerrarse para actualizar los cambios. Vuelve después de admirar tu nuevo y atractivo icono.</string>
 
     <!-- New dashboard / menu buttons -->
     <string name="manageWhitelist">Administrar lista blanca</string>
@@ -427,11 +427,11 @@
     <string name="whitelistAdd">Agregar a la lista blanca</string>
     <string name="whitelistRemove">Eliminar de la lista blanca</string>
     <string name="whitelistEntryOverflowContentDescription">Más opciones para el sitio web de la lista blanca %s</string>
-    <string name="whitelistEntryDeleteConfirmMessage">¿Estás seguro de que desea eliminar &lt;b&gt;%s&lt;/b&gt; de la lista blanca?</string>
+    <string name="whitelistEntryDeleteConfirmMessage">¿Está seguro de que desea eliminar &lt;b&gt;%s&lt;/b&gt; de la lista blanca?</string>
     <string name="whitelistExplanation">Estos sitios web incluidos en la lista blanca no se actualizarán por Protección de Privacidad</string>
     <string name="whitelistNoEntries">Aún no hay sitios web en la lista blanca</string>
     <string name="whitelistDomainHint">www.ejemplo.com</string>
-    <string name="whitelistFormatError">No se ha podido guardar, ingresa un dominio como <b>ejemplo.com</b>
+    <string name="whitelistFormatError">No se ha podido guardar, ingresa un link como: <b>ejemplo.com</b>
   </string>
 
     <!-- Settings -->
@@ -443,7 +443,7 @@
     <string name="fireproofWebsiteMenuTitle">Sitio web a prueba de fuego</string>
     <string name="fireproofWebsiteSnackbarConfirmation">¡&lt;b&gt;%s&lt;/b&gt; es ahora a prueba de fuego! Visita Ajustes para obtener más información.</string>
     <string name="fireproofWebsiteSnackbarAction">Deshacer</string>
-    <string name="fireproofWebsiteDeleteConfirmMessage">¿Está seguro de que desea eliminar &lt;b&gt;%s&lt;/b&gt;?</string>
+    <string name="fireproofWebsiteDeleteConfirmMessage">¿Estás seguro de que deseas eliminar &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="fireproofWebsiteEmptyListHint">Todavía no hay sitios web a prueba de fuego</string>
     <string name="fireproofWebsiteFeatureDescription">Los sitios web usan cookies para mantener la sesión del usuario. Cuando hagas un sitio web a prueba de fuego, las cookies no se borrarán y permanecerás conectado, incluso después de usar el botón fuego.</string>
     <string name="fireproofWebsiteOverflowContentDescription">Más opciones para el sitio web a prueba de fuego %s</string>
